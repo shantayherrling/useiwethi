@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaecohvah.syntactic-sugar.design/sitemap.xml
